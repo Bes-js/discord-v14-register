@@ -8,6 +8,7 @@
   "jailRole": "JAİL / ŞÜPHELİ ROL ID'Sİ",
   "jailName": "Şüpheli Hesap",
   "tagRole": "TAG ROL ID'Sİ",
+  "teamRoleName": "TAG ROL İSMİ",
   "staffRole": "KAYITÇI / REGİSTER SORUMLUSU ROL ID'Sİ",
   "boosterRole": "BOOSTER ROL ID'Sİ",
   "userTag": ["TAGINIZ VARSA BELİRTİN, EĞER BİRDEN FAZLA VAR İSE ,KOYUP EKLEYİN (YOK İSE [] BU ŞEKİLDE BIRAKINIZ)"],
