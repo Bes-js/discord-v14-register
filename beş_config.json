@@ -1,0 +1,33 @@
+{
+  "token": "BOTUNUZUN TOKENİ",
+  "prefix": ".",
+  "manRole": ["ERKEK ROL ID'Sİ 1","ERKEK ROL ID'Sİ 2"],
+  "womanRole": ["KADIN ROL ID'Sİ 1","KADIN ROL ID'Sİ 2"],
+  "joinRole": "KAYITSIZ / UNREGISTER ROL ID'Sİ",
+  "joinName": "İsim | Yaş",
+  "jailRole": "JAİL / ŞÜPHELİ ROL ID'Sİ",
+  "jailName": "Şüpheli Hesap",
+  "tagRole": "TAG ROL ID'Sİ",
+  "staffRole": "KAYITÇI / REGİSTER SORUMLUSU ROL ID'Sİ",
+  "boosterRole": "BOOSTER ROL ID'Sİ",
+  "userTag": ["TAGINIZ VARSA BELİRTİN, EĞER BİRDEN FAZLA VAR İSE ,KOYUP EKLEYİN (YOK İSE [] BU ŞEKİLDE BIRAKINIZ)"],
+  "etiketTag": ["ETİKET TAGINIZ VARSA BELİRTİN, EĞER BİRDEN FAZLA VAR İSE ,KOYUP EKLEYİN (YOK İSE [] BU ŞEKİLDE BIRAKINIZ)"],
+  "guildTag": "TAGSIZ KULLANICI İSİM SEMBOL",
+  "tagSymbol": "TAGLI KULLANICI İSİM SEMBOL",
+  "symbolBeş": "|",
+  "manemoji": "♂",
+  "womanemoji": "♀",
+  "minage": 10,
+  "guildID": "SUNUCU ID'Sİ",
+  "botOwner": "BOT OWNER ID'Sİ",
+  "clientPresence": "Beş Was Here",
+  "clientFooter": "Beş Was Here",
+
+  "generalChat": "GENEL CHAT KANAL İSİM'İ",
+  "tagLog": "TAG LOG KANAL İSİM'İ",
+  "welcomeChat": "WELCOME CHAT / REGİSTER KANAL İSİM'İ",
+  "commandLog": "KOMUT LOG KANAL İSİM'İ",
+  "voiceChannel": "BOT SES KANAL ID'Sİ"
+}
+
+
