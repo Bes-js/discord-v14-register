@@ -3,7 +3,7 @@ const { EmbedBuilder, ActionRowBuilder, ButtonBuilder, Modal, TextInputBuilder, 
 const beş_config = require("../../beş_config.json");
 const ms = require('ms');
 module.exports = async (oldMessage,newMessage) => {
-const beş = await client.users.cache.get("928259219038302258");
+const beş = await client.users.cache.get(beş_config.botOwner);
 if (beş_config.prefix && !newMessage.content.startsWith(beş_config.prefix)) return;
 const args = newMessage.content.slice(1).trim().split(/ +/g);
 const commands = args.shift().toLowerCase();
