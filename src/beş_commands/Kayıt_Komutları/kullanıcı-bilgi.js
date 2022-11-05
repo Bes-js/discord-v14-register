@@ -4,7 +4,7 @@ const moment = require("moment");
 const limit = new Map();
 moment.locale("tr");
 module.exports = {name: "kullanıcı-bilgi",aliases: ["bilgi", "kb"],execute: async (client, message, args, beş_embed) => {
-const member = message.mentions.users.first() || message.guild.members.cache.get(args[0]) || message.member;
+const member = message.mentions.members.first() || message.guild.members.cache.get(args[0]) || message.member;
   message.reply({ embeds: [beş_embed.setDescription(`**
 • Kullanıcı: (<@${member.id}> - \`${member.id}\`) (${member.roles.highest})
 • Hesap Kurulum Tarihi: <t:${Math.floor(member.user.createdTimestamp / 1000)}> (<t:${Math.floor(member.user.createdTimestamp / 1000)}:R>)
