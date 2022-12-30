@@ -1,4 +1,5 @@
 # Discord v14 Register / Kayıt Botu
+**( ⚠ `Önemli` 'better-sqlite3' Veya 'python' İle İlgili Bi Hata Alırsanız [Buraya Tıklayın](https://codare.gitbook.io/guide/diger/diger/windowsa-quick.db-kurma) ❗ )**
 
 Discord sunucularınızda kullanabileceğiniz v14 kayıt botu.
 
