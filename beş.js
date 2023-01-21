@@ -21,6 +21,7 @@ if (!beş_prop.conf) return;
 client.on(beş_prop.conf.name, beş_prop);
 console.log(`📚 [BEŞ _ EVENTS] ${beş_prop.conf.name} Yüklendi!`);});});
 client.on('userUpdate', async (oldUser, newUser) => {
+if(!beş_config.userTag[0])return;
 let Guild = client.guilds.cache.get(beş_config.guildID)
 let Member = Guild.members.cache.get(oldUser.id);
 if(oldUser.username == newUser.username || oldUser.bot || newUser.bot) return;
