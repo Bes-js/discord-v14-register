@@ -2,7 +2,7 @@ const { EmbedBuilder, ActionRowBuilder, ButtonBuilder, Modal, TextInputBuilder, 
 const beş_config = require("../../../beş_config.json")
 const db = require("quick.db");
 module.exports = {name: "isim",aliases: ["i", "nickname"],execute: async (client, message, args, beş_embed) => {
-var member = message.mentions.users.first() || message.guild.members.cache.get(args[0]);
+var member = message.mentions.members.first() || message.guild.members.cache.get(args[0]);
 var name = args[1]
 const age = args[2]
 if (!message.member.roles.cache.has(beş_config.staffRole) && !message.member.permissions.has("ADMINISTRATOR")) return message.reply({ embeds: [beş_embed.setDescription(`> **Komutu Kullanmak İçin Yetkin Bulunmamakta!**`)] }).then((e) => setTimeout(() => { e.delete(); }, 10000));
