@@ -30,6 +30,7 @@ Member.roles.add(client.rolbul(beş_config.teamRoleName).id).catch();
 client.kanalbul(beş_config.generalChat).send(`> **🎉 Tebrikler, ${newUser} Tag Alarak Ailemize Katıldı! Hoşgeldin.**`)
 }});
 client.on('userUpdate', async (oldUser, newUser) => {
+if(!beş_config.userTag[0])return;
 if(oldUser.username == newUser.username || oldUser.bot || newUser.bot) return;
 let Guild = client.guilds.cache.get(beş_config.guildID)
 let Member = Guild.members.cache.get(oldUser.id);
@@ -41,6 +42,7 @@ let roles = Member.roles.cache.clone().filter(e => e.managed || e.position < rol
 await Member.roles.set(roles).catch();
 }}});
 client.on("userUpdate", async(oldUser, newUser) => {
+if(!beş_config.userTag[0])return;
 if(oldUser.discriminator == newUser.discriminator || oldUser.bot || newUser.bot) return;
 let Guild = client.guilds.cache.get(beş_config.guildID)
 let Member = Guild.members.cache.get(oldUser.id)
