@@ -1,6 +1,6 @@
 # Discord v14 Register / Kayıt Botu
-**( ⚠ `Kurulum Önemli` beş_config Kısmına Kanal Girerken Kanal ismi olarak Giriniz,Bu Hatadan Dolayı Bana DM Yazmayınız❗ )**
-**( ⚠ `Önemli` 'better-sqlite3' Veya 'python' İle İlgili Bi Hata Alırsanız [Buraya Tıklayın](https://codare.gitbook.io/guide/diger/diger/windowsa-quick.db-kurma) ❗ )**
+- **( ⚠ `Kurulum Önemli` beş_config Kısmına Kanal Girerken Kanal ismi olarak Giriniz,Bu Hatadan Dolayı Bana DM Yazmayınız❗ )**
+- **( ⚠ `Önemli` 'better-sqlite3' Veya 'python' İle İlgili Bi Hata Alırsanız [Buraya Tıklayın](https://codare.gitbook.io/guide/diger/diger/windowsa-quick.db-kurma) ❗ )**
 
 Discord sunucularınızda kullanabileceğiniz v14 kayıt botu.
 
