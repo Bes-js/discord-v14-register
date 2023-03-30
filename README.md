@@ -1,30 +1,7 @@
-# Discord v14 Register / Kayıt Botu
-- **( ⚠ `Kurulum Önemli` beş_config Kısmına Kanal Girerken Kanal ismi olarak Giriniz,Bu Hatadan Dolayı Bana DM Yazmayınız❗ )**
-- **( ⚠ `Önemli` 'better-sqlite3' Veya 'python' İle İlgili Bi Hata Alırsanız [Buraya Tıklayın](https://codare.gitbook.io/guide/diger/diger/windowsa-quick.db-kurma) ❗ )**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Delicious+Handrawn&size=60&pause=1000&color=00F743&repeat=false&width=800&height=100&lines=Bu+Altyap%C4%B1n%C4%B1n+Deste%C4%9Fi+Kalkm%C4%B1%C5%9Ft%C4%B1r!)](https://git.io/typing-svg)
 
-Discord sunucularınızda kullanabileceğiniz v14 kayıt botu.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Delicious+Handrawn&size=60&pause=1000&color=00F743&repeat=false&width=800&height=100&lines=Yeni+Destekli+Altyap%C4%B1ya+Ula%C5%9Fmak+%C4%B0%C3%A7in+)](https://git.io/typing-svg)
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/928259219038302258?hideDiscrim=true)](https://discord.com/users/928259219038302258)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Delicious+Handrawn&size=60&pause=1000&color=00F743&repeat=false&width=800&height=100&lines=A%C5%9F%C5%9Fa%C4%9F%C4%B1daki+Yere+T%C4%B1klay%C4%B1n%C4%B1z!)](https://git.io/typing-svg)
 
-# Kurulum & İçerik
-
-- İlk olarak bilgisayarına [Node JS](https://nodejs.org/en/) indir.
-
-- Daha sonra altyapıyı indirip ./beş_config.json dosyasını doldur.
-
-	- Bu kadar bot hazır
-
-	-  `.yardım:` Komuduyla tüm komutlara ulaşabilirsin.
-
-	- **Önemli bilgi!**: Eğer beş_config dosyasında `[]` şeklinde bir değer varsa, oraya birden fazla değer girebiliyorsunuz. Örneğin; `["beş", "beş2", "beş3"]` gibi.
-
-# Görseller:
-
-<img  src="https://cdn.discordapp.com/attachments/930486300639891466/1019266456736772158/2022-09-13_17-47-33.png">
-<img  src="https://cdn.discordapp.com/attachments/930486300639891466/1019266456975851560/2022-09-13_17-47-54.png">
-  
-# İletişim
-
-- [Discord Profilim](https://discord.com/users/928259219038302258)
-
-- Herhangi bir hata bulmanız durumunda bana ulaşabilirsiniz ^^
+[Buraya Tıklayınız!](https://github.com/Bes-js/advanced-v14-register)
